@@ -1,7 +1,4 @@
-# sentiment-analysis-nlp
-Python NLP project using TextBlob and Newspaper3k for sentiment analysis.
-
-# Sentiment Analysis NLP
+Sentiment Analysis NLP
 
 Python NLP project using **TextBlob** and **Newspaper3k** for sentiment analysis.
 
